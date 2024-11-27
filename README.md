@@ -1,5 +1,4 @@
 
-```markdown
 # AlJazeera Automation
 
 This project automates the validation of various sections on the Al Jazeera website using CodeceptJS with WebDriver. The tests are written in the BDD (Behavior-Driven Development) format using Gherkin syntax, with reporting enabled via Allure.
