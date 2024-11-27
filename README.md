@@ -1,4 +1,3 @@
-Here’s the same `README.md` content formatted for markdown:
 
 ```markdown
 # AlJazeera Automation
