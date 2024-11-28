@@ -92,8 +92,4 @@ This will open a web interface where you can view detailed reports of the test r
 - **codecept.conf.js**: The configuration file for CodeceptJS.
 - **package.json**: Contains the project dependencies and scripts.
 
-## Troubleshooting
-
-- **Test Timeout Issues**: If you're seeing timeouts, ensure that the website is accessible and there are no network issues.
-- **Browser Compatibility**: Ensure that your version of Chrome or Firefox and the corresponding WebDriver are compatible.
 
