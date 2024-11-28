@@ -26,6 +26,7 @@ cd AlJazeeraAutomation
 ```
 
 ### 2. Install dependencies
+Node.js: Ensure you have Node.js installed. You can download it from Node.js official website.
 Install the required dependencies using npm:
 
 ```bash
