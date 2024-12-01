@@ -21,8 +21,8 @@ exports.config = {
   hooks: [],
   gherkin: {
     features: './features/*.feature',
-    steps: ['./step_definitions/livestream_steps.js', 
-      './step_definitions/most_read_steps.js'
+    steps: ['./step_definitions/most_read_steps.js',
+      './step_definitions/livestream_steps.js',
     ]
   },
   plugins: {
